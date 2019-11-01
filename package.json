@@ -1,0 +1,15 @@
+{
+  "name": "external-chain",
+  "version": "1.0.0",
+  "description": "Library with methods to respond to events from externnal blockchains",
+  "main": "events.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yabapmatt",
+  "license": "MIT",
+  "dependencies": {
+    "@splinterlands/pg-querybuilder": "^1.0.0",
+    "steem-interface": "^1.1.1"
+  }
+}
