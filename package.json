@@ -9,7 +9,7 @@
   "author": "yabapmatt",
   "license": "MIT",
   "dependencies": {
-    "@splinterlands/pg-querybuilder": "^1.0.0",
-    "steem-interface": "^1.1.1"
+    "@splinterlands/pg-querybuilder": "1.0.0",
+    "steem-interface": "1.1.1"
   }
 }
